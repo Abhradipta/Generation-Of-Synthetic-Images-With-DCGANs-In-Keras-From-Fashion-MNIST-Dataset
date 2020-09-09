@@ -22,4 +22,4 @@ Summary of DCGAN:
   6. Use LeakyReLU in the discriminator.
   
 
-# Technology: Deep Convolutional Generative Adversarial Network (DCGAN) | Python | Tensorflow 2.0 | Keras | MNIST Dataset | Artificial Neural Networks | Machine Learning | Deep Learing | Neural Networks | Artificial Intelligence
+Technology: Deep Convolutional Generative Adversarial Network (DCGAN) | Python | Tensorflow 2.0 | Keras | MNIST Dataset | Artificial Neural Networks | Machine Learning | Deep Learing | Neural Networks | Artificial Intelligence
