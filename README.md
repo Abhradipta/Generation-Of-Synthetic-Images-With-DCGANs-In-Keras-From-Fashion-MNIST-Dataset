@@ -21,3 +21,5 @@ Summary of DCGAN:
   5. Use ReLU in the generator except for the output which uses tanh.
   6. Use LeakyReLU in the discriminator.
   
+
+# Technology: Deep Convolutional Generative Adversarial Network (DCGAN) | Python | Tensorflow 2.0 | Keras | MNIST Dataset | Artificial Neural Networks | Machine Learning | Deep Learing | Neural Networks | Artificial Intelligence
